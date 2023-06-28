@@ -1,0 +1,71 @@
+body {
+    text-align: center;
+    background-color: rgb(44, 44, 44);
+}
+
+.conteiner {
+    margin-top: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.input {
+    margin-top: 30px;
+    border: 1px solid white;
+    border-radius: 30px;
+    border-color: rgb(170, 170, 169);
+    background-color: rgb(44, 44, 44);
+    height: 46px;
+    width: 600px;
+    padding-left: 60px;
+    color: aliceblue;
+}
+
+.lupa {
+    display: flex;
+    fill: antiquewhite;
+    padding-left: 450px;
+    position: relative;
+    bottom: 33px;
+    height: 20px;
+}
+
+.icone2 {
+    display: flex;
+    fill: beige;
+    position: relative;
+    padding-left: 970px;
+    bottom: 53px;
+    gap: 15px;
+}
+
+.microfone {
+    height: 20px;
+}
+
+.camera {
+    height: 20px;
+}
+
+.teclado {
+    height: 20px;
+}
+
+.botao1{
+    background-color:rgb(94, 92, 92) ;
+    border: none;
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    color: aliceblue;
+    margin-right: 10px;
+}
+
+.botao2 {
+    background-color:rgb(94, 92, 92) ;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    color: aliceblue;
+    width: 150px;   
+}
